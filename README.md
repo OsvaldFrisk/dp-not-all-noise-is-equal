@@ -2,7 +2,7 @@
 
 This repository contains the code to reproduce the experiments of
 
-[**Not all noise is accounted equally: How differentially private learning benefits from large sampling rates**](http://arxiv-sanity.com) SWAP OUT
+[**Not all noise is accounted equally: How differentially private learning benefits from large sampling rates**](https://arxiv.org/abs/2110.06255)
 
 *Friedrich Dörmann, Osvald Frisk, Lars Nørvang Andersen, Christian Fischer Pedersen*
 
